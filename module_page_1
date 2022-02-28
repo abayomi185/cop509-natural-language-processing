@@ -1,0 +1,103 @@
+Week 1, Day 1 - Introduction to module and NLP Basics
+
+    Week 1, Day 1 - Introduction to module and NLP Basics
+
+    Teaching plan
+
+    10:00
+    	
+
+    Introductions
+
+    10:10
+    	
+
+    About the module slides – week 1 day 1 module introduction
+
+    10:15
+    	
+
+    Module information – About the module’s structure
+
+    10:20
+    	
+
+    Attendance
+
+    10:25
+    	
+
+    What is NLP
+
+    10:35
+    	
+
+    PhD opportunity
+
+    10:40
+    	
+
+    Your Feedback is important
+
+    10:45
+    	
+
+    Getting Ready for the labs
+
+    10:50
+    	
+
+    Going over the first lab
+
+     
+    	
+
+    Coursework – I will release it tomorrow
+
+    Today
+
+    ·         Finish the tutorial and lab
+
+    ·         Pre-recorded lectures for day 1 (don’t spend too long on these)
+
+    ·         Pre-recorded lecturers for day 2 (these are really important)
+
+    About the module
+
+    Slides: Module Introduction
+
+    Slides: What is NLP?
+
+    PPT Slides [on-demand]:
+
+    Slides: Boolean Retrieval
+
+    Slides: Intersecting Posting Lists
+
+    Recordings for the PPTs [on-demand]:
+
+    Recording: Boolean Retrieval recording (18 mins)
+
+    Recording: Intersecting Posting Lists recording (7 mins)
+
+    Lab Tutorials
+
+    Colab page: How to Clean Text for Machine Learning with Python
+
+    Lab Exercise (No. 1)
+
+    Your task is to clean the Art Rating dataset that has been provided to you.Great if you can explore both manual and NLTK approaches.
+
+    Use the dataset of 'Reduced_ArtsReviews_5000.txt' found here.
+
+    Additional Resource
+
+    Useful library: PyTerrier
+
+    PyTerrier makes it easy to perform IR experiments in Python, but using the mature Terrier platform for the expensive indexing and retrieval operations. The following tutorial introduces PyTerrier for indexing, information retrieval and evaluation. Evaluation measures are taught in Week 2 Monday.
+
+    Part 1: Classical IR: indexing, retrieval and evaluation Slides
+
+    Notebook Open In Colab
+
+    PyTerrier documentation.
